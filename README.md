@@ -1,6 +1,6 @@
 # Projeto Java – Bootcamp 2025
 
-Este é um projeto simples em Java desenvolvido durante o Bootcamp 2025. Comparação de dois parametros e repetição dada a diferença, daos com entrada via terminal com entrada de dados pelo usuário.
+Este é um projeto simples em Java desenvolvido durante o Bootcamp 2025. Comparação de dois parametros e repetição dada a diferença, dados com entrada via terminal com entrada de dados pelo usuário.
 
 ## ▶️ Como executar o projeto
 
